@@ -1,6 +1,6 @@
 # hello_flutter
 
-A new Flutter project.
+flutter 를 연습하기 위한 repository 입니다.
 
 ## Getting Started
 
